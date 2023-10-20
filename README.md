@@ -19,3 +19,10 @@
 
 ![imageup.ru](https://imageup.ru/img92/4581176/bag-report-iandeks-marshruty.jpg)
 </details>
+
+<details>
+<summary>Баг-репорт мобильное приложение Рублевский/summary>
+
+![imageup.ru](https://imageup.ru/img34/4581178/bag-reporty-mob-prilozhenie-rublevskii.jpg)
+</details>
+
