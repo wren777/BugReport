@@ -34,3 +34,10 @@
 ![imageup.ru](https://imageup.ru/img8/4581194/bag-report-po-regressionnomu-testirovaniiu1.png)
 </details>
 
+<details>
+<summary>Ре-тест багов мобильное приложение Я. Самокат</summary>
+
+![imageup.ru](https://imageup.ru/img179/4581207/re-test-ispravlen.png)
+![imageup.ru](https://imageup.ru/img188/4581208/re-test.png)
+</details>
+
