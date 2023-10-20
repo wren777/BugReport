@@ -21,13 +21,13 @@
 </details>
 
 <details>
-<summary>Баг-репорт по регрессионному тестированию мобильное приложение Я. Самокат</summary>
+<summary>Баг-репорт мобильное приложение Рублевский</summary>
 
 ![imageup.ru](https://imageup.ru/img92/4581176/bag-report-iandeks-marshruty.jpg)
 </details>
 
 <details>
-<summary>Баг-репорт мобильное приложение Рублевский</summary>
+<summary>Баг-репорт по регрессионному тестированию мобильное приложение Я. Самокат</summary>
 
 ![imageup.ru](https://imageup.ru/img184/4581185/bag-report-regress.png)
 
