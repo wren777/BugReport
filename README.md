@@ -4,7 +4,6 @@
   
 ![imageup.ru](https://imageup.ru/img266/4581118/bag-report-api-ia-samokat.png)
 ![imageup.ru](https://imageup.ru/img104/4581123/bag-report-api-prilozhenie-ia-samokat.png)
-![imageup.ru](https://imageup.ru/img285/4581124/bag-report-api-iandeks-prilavok.png)
 
 </details>
 
