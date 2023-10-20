@@ -30,6 +30,7 @@
 <summary>Баг-репорт по регрессионному тестированию мобильное приложение Я. Самокат</summary>
 
 ![imageup.ru](https://imageup.ru/img184/4581185/bag-report-regress.png)
-
+![imageup.ru](https://imageup.ru/img190/4581192/bag-report-po-regressionnomu-testirovaniiu.png)
+![imageup.ru](https://imageup.ru/img8/4581194/bag-report-po-regressionnomu-testirovaniiu1.png)
 </details>
 
