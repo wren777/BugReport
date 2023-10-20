@@ -1,6 +1,6 @@
 # BugReport
 <details>
-<summary>Баг-репорты API веб приложение Я. Прилавок(YouTrack)</summary>
+<summary>Баг-репорты API веб приложение Я. Прилавок</summary>
   
 ![imageup.ru](https://imageup.ru/img266/4581118/bag-report-api-ia-samokat.png)
 ![imageup.ru](https://imageup.ru/img104/4581123/bag-report-api-prilozhenie-ia-samokat.png)
