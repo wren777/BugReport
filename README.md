@@ -18,6 +18,7 @@
 <summary>Баг-репорт веб приложение Я. Маршруты</summary>
 
 ![imageup.ru](https://imageup.ru/img92/4581176/bag-report-iandeks-marshruty.jpg)
+[![imageup.ru](https://imageup.ru/img62/4582420/nekorrektno-otobrazhaetsia-nazvanie-transporta.jpg)
 </details>
 
 <details>
