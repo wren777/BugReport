@@ -15,20 +15,20 @@
 </details>
 
 <details>
-<summary>Баг-репорт веб приложение Я. Маршруты</summary>
+<summary>Баг-репорты веб приложение Я. Маршруты</summary>
 
 ![imageup.ru](https://imageup.ru/img92/4581176/bag-report-iandeks-marshruty.jpg)
 [![imageup.ru](https://imageup.ru/img62/4582420/nekorrektno-otobrazhaetsia-nazvanie-transporta.jpg)
 </details>
 
 <details>
-<summary>Баг-репорт мобильное приложение Рублевский</summary>
+<summary>Баг-репорты мобильное приложение Рублевский</summary>
 
 ![imageup.ru](https://imageup.ru/img1/4581188/bag-reporty-mob-prilozhenie-rublevskii.jpg)
 </details>
 
 <details>
-<summary>Баг-репорт по регрессионному тестированию мобильное приложение Я. Самокат</summary>
+<summary>Баг-репорты по регрессионному тестированию мобильное приложение Я. Самокат</summary>
 
 ![imageup.ru](https://imageup.ru/img184/4581185/bag-report-regress.png)
 ![imageup.ru](https://imageup.ru/img190/4581192/bag-report-po-regressionnomu-testirovaniiu.png)
