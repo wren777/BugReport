@@ -18,7 +18,7 @@
 <details>
 <summary>Баг-репорты веб приложение Я. Самокат</summary>
   
-![imageup.ru](https://imageup.ru/img199/4581163/bag-report-veb-prilozhenie-ia-samokat.png)
+![imageup.ru](https://imageup.ru/img233/4623494/snimok-ekrana-2023-11-15-115258.png)
 ![imageup.ru](https://imageup.ru/img257/4581165/bag-report-prilozhenie-iandeks-samokat.png)
 </details>
 
